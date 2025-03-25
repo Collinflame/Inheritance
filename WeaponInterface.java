@@ -8,18 +8,13 @@
 public interface WeaponInterface
 {
     /**
-     * Attacks an enemy for an amount
-     * 
-     * 
-     * @return        Returns amount of damage successfully done to the opponent 
+     * Attacks an Enemy for an Amount
+     * Returns Amount of Damage Dealt
      */
     int attack();
     /**
-     * Parry Attack Method
-     * 
-     * A Parry is when a incoming attack is blocked with your weapon
-     * 
-     * @return        True if the attack was parried. 
+     * Attemps to Parry an Attack
+     * Returns if Parry was Successful
      */
     boolean parry();
     

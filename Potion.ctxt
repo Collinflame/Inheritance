@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Potion
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Weapon\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ type\ description\ consumableType\ needsHeat\ potionType
+comment1.target=Potion(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean,\ java.lang.String)
+comment2.params=
+comment2.target=void\ createDuplicate()
+numComments=3
