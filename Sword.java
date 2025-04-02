@@ -22,7 +22,7 @@ public class Sword extends Weapon{
             return;
         }
         if (level > 4){
-            System.out.println("Its Already Diamond");
+            System.out.println("It's Already Diamond");
             return;
         }
         material = materials[level];
